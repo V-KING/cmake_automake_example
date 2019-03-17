@@ -1,0 +1,6 @@
+#include "module1.h"
+int module1()
+{
+	printf("module1\n");	
+	return 0;
+}

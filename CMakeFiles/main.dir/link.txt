@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/main.dir/main.c.o  -o main -rdynamic -Lmodule1 module1/libmodule1.a -Wl,-rpath,module1 

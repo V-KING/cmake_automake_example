@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vk/Documents/makefile/automake/test1/module1/module1.c
+module1.h
+/home/vk/Documents/makefile/automake/test1/module1/module1.h
+stdio.h
+/home/vk/Documents/makefile/automake/test1/module1/stdio.h
+
+/home/vk/Documents/makefile/automake/test1/module1/module1.h
+

@@ -1,0 +1,2 @@
+/home/vk/Documents/makefile/automake/test1/CMakeFiles/main.dir
+/home/vk/Documents/makefile/automake/test1/module1/CMakeFiles/module1.dir

@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/main.cmake.dir/main.o  -o main.cmake -rdynamic -Lmodule1 
